@@ -6,8 +6,10 @@
 *Depois de criado, temos que ativar este ambiente para usá-lo. Isto é importante pois sempre que decidirmos trabalhar neste projeto devemos repetir este passo.*
 **source .venv/bin/activate**
 
+**deactivate**
+*Fechando terminal*
 
-*Entrada de dados
+- Entrada de dados
 **input("Digite uma mensagem:")**
 *Retorno em string*
 
