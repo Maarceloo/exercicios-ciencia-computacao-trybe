@@ -9,6 +9,9 @@
 **deactivate**
 *Fechando terminal*
 
+*interacao no arquivo*
+**python3 -i src/caminho_do_arquivo/arquivo.py**
+
 - Entrada de dados
 **input("Digite uma mensagem:")**
 *Retorno em string*
